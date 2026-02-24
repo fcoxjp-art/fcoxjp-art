@@ -33,9 +33,3 @@ Python, philosophy, data analysis, patience, magical realism, historical materia
 
 
 Always open to collaborate and learn from the community.
-
-## 📈 Estadísticas de GitHub
-
-![Mis stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
