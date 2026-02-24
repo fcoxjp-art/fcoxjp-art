@@ -1,3 +1,4 @@
+![fcoxjp-art](introgit.jpg)
 # 👋 About Me
 
 Hi, I'm Francisco, but everyone calls me Cisco, I began my professional journey as an artist, photographer, and critical thinker. Working behind the lens taught me to capture stories, pay attention to detail, and understand how small adjustments can transform an entire composition.
